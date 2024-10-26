@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tuwovts.github.io/zyx/zyx.txt
